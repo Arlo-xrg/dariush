@@ -1,0 +1,7 @@
+"گوگل":"https://www.google.com"
+"دیجی کالا" :"https://www.digikala.com"
+"گیتاب: :"https://github.com/ITech-ai"
+"گیت هاب:"https://github.com/ITech-ai"
+
+"یوتیوب" :"https://m.youtube.com"
+"سوپر" :"https://www.google.com/search?q=pornhub&oq=pornhub&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgyNDc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
