@@ -101,5 +101,4 @@ if __name__ == "__main__":
 
     threading.Thread(target=jarvis_core_logic, daemon=True).start()
 
-    # ۳. راه‌اندازی پنجره وب‌ویو
     webview.start()
