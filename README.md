@@ -1,55 +1,60 @@
-# 🟡 DARIUSH — Your Personal AI Assistant
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1200,25:3a2a00,60:8a6a00,100:ffd000&height=340&section=header&text=DARIUSH&fontSize=82&fontColor=ffffff&fontAlignY=42&desc=Intelligent%20AI%20Command%20System%20%7C%20JARVIS-Inspired%20Architecture&descAlignY=60&descSize=16&animation=fadeIn&stroke=ffd000&strokeWidth=2)](https://github.com/ITech-ai/dariush)
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Made_With-Python_%7C_HTML_%7C_CSS_%7C_JSON-gold?style=for-the-badge" alt="Tech Stack">
-  <img src="https://img.shields.io/badge/Creator-Arlo-black?style=for-the-badge" alt="Creator">
+  <img src="https://img.shields.io/badge/STATUS-Active_Development-ffd000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-JARVIS_Style_Engine-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ARCHITECTURE-Modular_Python-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-Cyber_Yellow_Theme-ffd000?style=for-the-badge"/>
 </p>
 
 ---
 
-**DARIUSH** is an intelligent, versatile, and highly customized personal assistant inspired by the legendary **JARVIS** system. This project is being developed to manage tasks, interact intelligently, and create a dedicated control hub for its creator.
+# ⚡ SYSTEM OVERVIEW
+
+**DARIUSH** is a high-performance, modular AI assistant designed as a **personal command-level intelligence system**.  
+It is inspired by JARVIS-level architectures, built for automation, extensibility, and real-time interaction.
+
+> “A system is not smart because it answers — it is smart because it understands commands.”
 
 ---
 
-## ⚡ Key Features
+# 🟡 CORE CAPABILITIES
 
-* **JARVIS-Style Intelligence:** Processes commands and executes tasks intelligently and rapidly.
-* **Modern UI:** Features a sleek, futuristic interface designed with a signature **cyber-yellow** theme.
-* **Optimized Storage:** Utilizes lightweight JSON data structures to handle configurations, logs, and bot memory.
-* **Highly Extensible:** Built on Python, making it fully compatible with various APIs and custom modules.
-
----
-
-## 🛠️ Tech Stack
-
-* **Backend:** Python 🐍
-* **Frontend:** HTML5 & CSS3 🎨 (Futuristic Amber/Yellow UI)
-* **Data & Storage:** JSON 📁
+- ⚡ Natural command execution engine (JARVIS-like behavior)
+- 🧠 Expandable AI module system (plugin-based design)
+- 🎛️ Cyber-yellow futuristic UI/UX layer
+- 💾 Lightweight JSON-based memory core
+- 🔌 API-ready integration structure
+- 🚀 Low-latency execution pipeline
 
 ---
 
-## 🚀 Quick Start
+# 🌊 SYSTEM VISUALIZATION (LIVE CORE)
 
-To get the project running locally, follow these steps:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260"/>
+</p>
 
-1. Clone the repository:
+<p align="center">
+  <b style="color:#ffd000;">NEURAL CORE STATUS:</b> <span style="color:#ffffff;">ONLINE · STABLE · LEARNING</span>
+</p>
 
-git clone [https://github.com/ITech-ai/dariush.git](https://github.com/ITech-ai/dariush.git)
-Navigate to the project directory:
+---
 
-```
-Navigate to the project directory:
+# 🛠️ TECH STACK
+
+- 🐍 Python 3.x → Core Engine
+- 🌐 HTML5 / CSS3 → UI Layer
+- 📦 JSON → Memory & State System
+- ⚙️ Modular Plugin Architecture
+
+---
+
+# 🚀 QUICK START
+
+```bash
+git clone https://github.com/ITech-ai/dariush.git
 cd dariush
-
-Run the core application:
 python main.py
-```
----
-
-## 👥 Development
-This project is crafted with passion by:
-
-**`Arlo (Creator & Lead Developer)`**
-
-"The greatest systems are built from the smallest ideas." 🟡
