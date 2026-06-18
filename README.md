@@ -11,7 +11,7 @@
 
 ---
 
-# ⚡ SYSTEM OVERVIEW
+## ⚡ SYSTEM OVERVIEW
 
 **DARIUSH** is a high-performance, modular AI assistant designed as a **personal command-level intelligence system**.  
 It is inspired by JARVIS-level architectures, built for automation, extensibility, and real-time interaction.
@@ -20,7 +20,7 @@ It is inspired by JARVIS-level architectures, built for automation, extensibilit
 
 ---
 
-# 🟡 CORE CAPABILITIES
+## 🟡 CORE CAPABILITIES
 
 - ⚡ Natural command execution engine (JARVIS-like behavior)
 - 🧠 Expandable AI module system (plugin-based design)
@@ -31,7 +31,7 @@ It is inspired by JARVIS-level architectures, built for automation, extensibilit
 
 ---
 
-# 🌊 SYSTEM VISUALIZATION (LIVE CORE)
+## 🌊 SYSTEM VISUALIZATION (LIVE CORE)
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260"/>
@@ -43,7 +43,7 @@ It is inspired by JARVIS-level architectures, built for automation, extensibilit
 
 ---
 
-# 🛠️ TECH STACK
+## 🛠️ TECH STACK
 
 - 🐍 Python 3.x → Core Engine
 - 🌐 HTML5 / CSS3 → UI Layer
@@ -52,9 +52,52 @@ It is inspired by JARVIS-level architectures, built for automation, extensibilit
 
 ---
 
-# 🚀 QUICK START
+## 🚀 QUICK START
 
 ```bash
 git clone https://github.com/ITech-ai/dariush.git
 cd dariush
 python main.py
+````
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="140"/>
+</p>
+
+<p align="center">
+  🟡 <b style="color:#ffd000">SYSTEM STATUS: ACTIVE CORE</b>
+</p>
+
+---
+
+## 🧠 DEVELOPMENT PHILOSOPHY
+
+DARIUSH is not just software.
+It is a **command-oriented intelligence layer** designed to evolve into a full personal AI operating system.
+
+* Precision over complexity
+* Modularity over monoliths
+* Intelligence over automation
+
+---
+
+## 🟡 ROADMAP
+
+* 🎤 Voice Command System (Speech-to-Action)
+* 🧠 AI Chat Brain (LLM integration layer)
+* 🖥️ Desktop App (Electron-based control center)
+* 📊 Advanced Dashboard UI
+* 🔐 Secure User Profile System
+
+---
+
+## 👤 DEVELOPER
+
+**Arlo — Creator & Lead Developer**
+*“Engineering intelligence into controllable systems.”*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd000,25:ffb700,60:8a6a00,100:1a1200&height=140&section=footer"/>
+</p>
