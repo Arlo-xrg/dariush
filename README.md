@@ -95,7 +95,7 @@ It is a **command-oriented intelligence layer** designed to evolve into a full p
 
 ## 👤 DEVELOPER
 
-**Arlo — Creator & Lead Developer**
+**Arlo — Creator & Lead Developer** <br>
 *“Engineering intelligence into controllable systems.”*
 
 <p align="center">
